@@ -2,7 +2,7 @@
 Calendar Application using Java Swing
 # 📅 Calendar Application
 
-![Calendar](calendar.png)
+![Calendar](1.png)
 
 Полнофункциональное приложение календаря на Java Swing.
 
@@ -22,7 +22,7 @@ Calendar Application using Java Swing
 
 ## 📷 Скриншоты
 
-![Calendar Screenshot](calendar.png)
+![Calendar Screenshot](1.png)
 
 ## 🛠 Технологии
 
