@@ -29,7 +29,3 @@ Calendar Application using Java Swing
 • Java  
 • Java Swing  
 • AWT  
-
-## 👨‍💻 Автор
-
-Твоё имя
